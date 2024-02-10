@@ -61,4 +61,18 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ## Screenshots of API testing via postman
 
-![Screenshot 1](screenshots/Screenshot1.PNG)
+![Screenshot1](https://github.com/SyedWaseem07/Blogify-Hub-Backend/assets/125558233/1e1e2fc6-5931-4301-95be-e26729121419)
+![Screenshot2](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/0a326c27-a81e-429f-b0d7-e2c65d611b6d)
+![Screenshot3](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/f705fb68-0edf-487a-9571-dc4dd9fe7f30)
+![Screenshot4](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/29d44b33-68fe-4b90-b35b-53b6f1acc2e8)
+![Screenshot5](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/d51fc9fd-5d85-451f-a622-6f658ebff90f)
+![Screenshot6](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/12ab8d5c-c1a0-428d-acfb-1957c960a86b)
+![Screenshot7](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/e599dd34-29a1-4377-b264-3af8df6ca03e)
+![Screenshot8](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/ece7ab18-ff4e-402b-a36c-ca19d5e48ab0)
+![Screenshot9](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/23f06a31-678e-4845-b40e-986d9826f4df)
+![Screenshot10](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/fd9081a8-0583-42f9-a990-a7c5733f1665)
+![Screenshot11](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/0afea078-af44-483d-ac5c-5e66ba3b7c22)
+![Screenshot12](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/0b71f942-78ce-45f2-a334-bb312cecd5d2)
+![Screenshot13
+![Screenshot14](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/582e2b30-6612-4c84-912c-70e3dfae83fb)
+](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/edb62045-f67b-4d39-8a64-55f4f24a9509)
