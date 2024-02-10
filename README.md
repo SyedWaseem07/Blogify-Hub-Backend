@@ -61,4 +61,4 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ## Screenshots of API testing via postman
 
-[![Screenshot 1](screenshots/Screenshot1.PNG)](screenshots/Screenshot1.PNG)
+![Screenshot 1](screenshots/Screenshot1.PNG)
