@@ -58,7 +58,7 @@ REFRESH_TOKEN_EXPIRY=your_refresh_token_expiry
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
-
+```
 ## Screenshots of API testing via postman
 
 ![Screenshot1](https://github.com/SyedWaseem07/Blogify-Hub-Backend/assets/125558233/1e1e2fc6-5931-4301-95be-e26729121419)
