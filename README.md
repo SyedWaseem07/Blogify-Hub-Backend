@@ -75,4 +75,3 @@ CLOUDINARY_API_SECRET=your_api_secret
 ![Screenshot12](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/0b71f942-78ce-45f2-a334-bb312cecd5d2)
 ![Screenshot13](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/ddb74022-73e4-4bdc-8d7e-b7a6584022fd)
 ![Screenshot14](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/582e2b30-6612-4c84-912c-70e3dfae83fb)
-](https://github.com/SyedWaseem07/Blogify-Hub/assets/125558233/edb62045-f67b-4d39-8a64-55f4f24a9509)
