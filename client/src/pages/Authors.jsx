@@ -33,7 +33,7 @@ const Authors = () => {
                             <img src={avatar} alt="author avatar" className="author__avatar" />
                         </div>
                         <div className="author__info">
-                            <h4> {name} </h4>
+                            <h4> {name.toUpperCase()} </h4>
                             <p> {posts} </p>
                         </div>
                     </Link>)

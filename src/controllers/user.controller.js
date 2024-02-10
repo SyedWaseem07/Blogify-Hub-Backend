@@ -79,7 +79,7 @@ const loginUser = asyncHandler(async (req, res) => {
 
     const user = await User.findOne({ email });
 
-    if (!user) throw new ApiError(400, "User is not registerd");
+    if (!user) throw new ApiError(400, "User is not registered");
 
     const isPasswordCorrect = await user.isPasswordCorrect(password);
 

@@ -26,14 +26,14 @@ const Register = () => {
             .then(response => {
                 const newUser = response?.data
                 if (!newUser) setError("Unable to register user")
-                else navigate("/");
+                else navigate("/login");
             })
             .catch(error => {
                 const index = error.response.data.indexOf("<pre>")
                 const Lastindex = error.response.data.indexOf("</pre>")
                 const errMsg = error.response.data.substring(index + 5, Lastindex);
                 setError(errMsg);
-            })
+        })
     }
 
     return (
@@ -48,10 +48,10 @@ const Register = () => {
                     <input type="text" name="email" placeholder="Email" value={userData.email}
                         onChange={changeInputHandler}
                     />
-                    <input type="text" name="password" placeholder="Password" value={userData.password}
+                    <input type="Password" name="password" placeholder="Password" value={userData.password}
                         onChange={changeInputHandler}
                     />
-                    <input type="text" name="confirmPassword" placeholder="Confirm Password" value={userData.confirmPassword}
+                    <input type="Password" name="confirmPassword" placeholder="Confirm Password" value={userData.confirmPassword}
                         onChange={changeInputHandler}
                     />
                     <button type="submit" className="btn primary">Register</button>

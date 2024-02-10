@@ -21,7 +21,7 @@ const Header = () => {
                     <img src={Logo} alt="Navbar logo" />
                 </Link>
                 {currentUser && isNavShowing && <ul className="nav__menu">
-                    <li><Link to={`/profile/${currentUser?._id}`} onClick={closeNavBarHandler}>{currentUser.name}</Link></li>
+                    <li><Link to={`/profile/${currentUser?._id}`} onClick={closeNavBarHandler}>{currentUser.name.toUpperCase()}</Link></li>
                     <li><Link to="/create" onClick={closeNavBarHandler}>Create Post</Link></li>
                     <li><Link to="/authors" onClick={closeNavBarHandler}>Authors</Link></li>
                     <li><Link to="/logout" onClick={closeNavBarHandler}>Logout</Link></li>

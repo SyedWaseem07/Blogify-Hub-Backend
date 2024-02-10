@@ -45,7 +45,7 @@ const Login = () => {
                     <input type="text" name="email" placeholder="Email" value={userData.email}
                         onChange={changeInputHandler} autoFocus
                     />
-                    <input type="text" name="password" placeholder="Password" value={userData.password}
+                    <input type="Password" name="password" placeholder="Password" value={userData.password}
                         onChange={changeInputHandler}
                     />
                     <button type="submit" className="btn primary">Sign In</button>
