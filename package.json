@@ -1,5 +1,5 @@
 {
-  "name": "src",
+  "name": "blogify-hub-backend",
   "version": "1.0.0",
   "description": "Backend of Blog application using mern ",
   "main": "index.js",
@@ -7,12 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
-
-    "start": "node -r dotenv/config --experimental-json-modules src/index.js",
-    "build": "npm install && npm install --prefix client && npm run build --prefix client"
-
-    "start": "node -r dotenv/config --experimental-json-modules src/index.js"
-
+    "start": "node src/index.js",
   },
   "keywords": [
     "NodeJs",
