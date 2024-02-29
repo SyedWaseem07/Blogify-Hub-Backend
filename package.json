@@ -9,11 +9,7 @@
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
     "start": "node src/index.js",
   },
-  "keywords": [
-    "NodeJs",
-    "MOngoDb",
-    "ExpressJs"
-  ],
+  
   "author": "Syed Waseem",
   "license": "ISC",
   "dependencies": {
