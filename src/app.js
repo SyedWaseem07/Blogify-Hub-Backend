@@ -19,13 +19,8 @@ app.use(express.static("public/temp"))
 
 app.use(cookieParser())
 
-
 app.use("/api/v1/users", userRoutes)
 app.use("/api/v1/posts", postRoutes)
-
-app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "client", "dist", "index.html"))
-})
 
 // app.use(pageNotFound)
 // app.use(errorMiddleware)
