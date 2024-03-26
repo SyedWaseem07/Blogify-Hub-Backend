@@ -5,6 +5,10 @@ The app is designed to allow users to create, edit, and delete blog posts, as we
 The app also allows browsing through different posts filtered by authors and categories.
 It provides a user-friendly interface for managing blog content.
 
+## Swagger API Documentation
+
+- **Link:** https://swaseem-blogifyhub-backend.onrender.com/api-docs/
+  
 ## Features
 
 - **User Authentication:** Securely sign up and log in to start managing your own blog.
