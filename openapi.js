@@ -1,16 +1,16 @@
 export const openapi = {
   "openapi": "3.0.0",
   "info": {
-    "title": "Blogify Hub",
-    "description": "Documentation of api used in simple and awesome blog app named Blogify Hub - Where Ideas Thrive",
+    "title": "Blogify Hub Backend",
+    "description": "Welcome to the backend of a simple and customizable blog app named Blogify Hub - Where Ideas Thrive. The app is designed to allow users to create, edit, and delete blog posts, as well as browse through existing posts. The app also allows browsing through different posts filtered by authors and categories. It provides a user-friendly interface for managing blog content.\n\n## Features\n\n- **User Authentication:** Securely sign up and log in to start managing your own blog.\n    \n- **Create and Edit Posts:** Write and edit your blog posts with an easy-to-use editor.\n    \n- **Categories and Tags:** Organize your content by adding categories and tags to your posts.\n    \n- **Responsive Design:** Enjoy a seamless experience across devices - desktop, tablet, and mobile.",
     "version": "1.0.0"
   },
   "servers": [
     {
-      "url": "http://localhost:8000/api/v1/users"
+      "url": "http://localhost:8000/user"
     },
     {
-      "url": "http://localhost:8000//api/v1/posts"
+      "url": "http://localhost:8000/posts"
     }
   ],
   "tags": [
